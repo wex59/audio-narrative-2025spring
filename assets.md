@@ -8,3 +8,4 @@
 | Morning background sound  | 2020-04-11 morning | tim.kahn | [Freesound](https://freesound.org/people/tim.kahn/sounds/522063/) | CC BY-NC 4.0 |
 | Waking up | WakeUp | pboix | [Freesound](https://freesound.org/people/pboix/sounds/155308/) | CC BY 3.0 |
 | Footsteps  | Recorded at home | Weini Xie He | | Own work |
+| Sleeping sound | Small children sleeping | babybabypodden | https://freesound.org/people/babybabypodden/sounds/633217/ | CC BY 4.0 |
