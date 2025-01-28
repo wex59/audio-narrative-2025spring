@@ -1,6 +1,6 @@
 # Assets List
 
-| Asset  | Source | Credits | Link | License |
+| Asset  | Name | Credits | Link | License |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Alarm  |  Alarm | Tempouser | [Freesound](https://freesound.org/people/Tempouser/sounds/162851/)| CC BY-NC 3.0 |
 | Door sound  | Door opening and closing 9 | JakLocke |[Freesound](https://freesound.org/people/JakLocke/sounds/261108/) | CC BY 4.0 |
