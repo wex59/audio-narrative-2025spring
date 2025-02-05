@@ -1,15 +1,25 @@
-# Introduction
-## The Morning That Changed Everything
-### Creator: Weini Xie He
+# The Morning That Changed Everything
+## Creator: Weini Xie He
+### Introduction:
 This is a story about an ordinary morning that takes a terrifying turn.
 
 The day begins as usual—an alarm clock rings, birds chirp, and a daily routine unfolds. Washing face, brushing teeth, making coffee, watching the news—everything feels normal. Then, a breaking news alert interrupts. An unknown force is invading Earth. The background fills with noise—panic, sirens, the chaos of a city thrown into turmoil. The sounds of everyday life are swallowed by fear, and then... silence. The world is falling into chaos.
 
+### How to use this repository:
+Listen: 
+View Audacity file:
+Tools and Effects used:
+Text transcription:
+View credits: [asset.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/assets.md)
+
+
 need to do:
+
 -Make sure both soundtrack in aup and assest is the same 
 -audio text transcript (For tools and effect used)
 -Add link in README.md for shortcuts
--Add reflection in README
+-Add reflection in README (Meet deadlines and requirements from the assignment page (see: citation, reflection with a minimum length of 500 words, project title in README))
+-Add an ending with your name and the link
 -Fix based on comments
 Comments:
 
