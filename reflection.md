@@ -6,21 +6,20 @@ For the baseline criteria, I ensured the audio file met all requirements. The fi
 ### Aspirational Inspirations
 For the aspirational inspirations, I believe I met several of the requirements. I created a separate file that lists all the Audacity tools and effects I used for different soundtracks in the project called toolsAndEffectUsed.md. One of the most interesting techniques I used was applying a fade-in effect to the TV sounds and then overlapping them with the footsteps soundtrack. This combination effectively showed the main character walking toward the TV.
 ![alt text](<Reflection images/Screenshot 2025-02-05 175759.png>)
-The most useful skill I learned was turning a narrative into a radio-style broadcast. Initially, I recorded the news reporter’s lines, but I wanted them to sound like they were coming from a TV. After researching online, I discovered how to use the Filter Curve EQ in the EQ and Filters section to create a "radio sound" effect for the breaking news report.
+The most useful skill I learned was turning a narrative into a radio-style broadcast. Initially, I recorded the news reporter’s lines, but I wanted them to sound like they were coming from a TV. After researching online, I discovered how to use the Filter Curve EQ in the EQ and Filters section to create a "radio sound" effect for the breaking news report.<br>
 Making radio effect:
 ![alt text](<Reflection images/radioEffect.png>)
-The coolest part was creating a specific sound effect using just one tool. I wanted to simulate an unstable TV signal to hint at the start of the Earth invasion, but I couldn’t find the right soundtrack. Instead, I took a buzzing audio track, added moments of silence using silence audio selection tool, and overlapped it with the reporter’s dialogue. This created a sense of signal disruption, making it feel like something ominous was happening.
+The coolest part was creating a specific sound effect using just one tool. I wanted to simulate an unstable TV signal to hint at the start of the Earth invasion, but I couldn’t find the right soundtrack. Instead, I took a buzzing audio track, added moments of silence using silence audio selection tool, and overlapped it with the reporter’s dialogue. This created a sense of signal disruption, making it feel like something ominous was happening.<br>
 Before:
 ![alt text](<Reflection images/Before.png>)
 After:
 ![alt text](<Reflection images/After.png>)
-
-I also took into account a suggestion from a classmate who listened to my audio during a workshop. They recommended overlapping the breaking news intro more with the reporter’s dialogue and adding a slight cut in the reporter’s line to make the unstable signal feel more realistic. I made these changes, adjusting the overlap and adding a cut to enhance the effect.
+I also took into account a suggestion from a classmate who listened to my audio during a workshop. They recommended overlapping the breaking news intro more with the reporter’s dialogue and adding a slight cut in the reporter’s line to make the unstable signal feel more realistic. I made these changes, adjusting the overlap and adding a cut to enhance the effect.<br>
 Suggestion: 
 ![alt text](<Reflection images/suggestion1.png>)
 Change: the highlighted part is the new cut off I’ve added and make the breaking news intro overlap more with the news reporter’s line.
 ![alt text](<Reflection images/Change1.png>)
-Another suggestion was to include a text transcript of my audio file and a separate file listing the tools and effects I used for better clarity. I implemented this by creating two additional files: one with the transcript and another detailing the Audacity tools and effects applied to each soundtrack. These changes helped make my project more organized and easier to understand.
+Another suggestion was to include a text transcript of my audio file and a separate file listing the tools and effects I used for better clarity. I implemented this by creating two additional files: one with the transcript and another detailing the Audacity tools and effects applied to each soundtrack. These changes helped make my project more organized and easier to understand.<br>
 Suggestion:
 ![alt text](<Reflection images/suggestion2.png>)
 Change: Created two files for a better clarification to my audio file

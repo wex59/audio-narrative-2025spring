@@ -14,6 +14,7 @@ After finishing in the bathroom, he walks to the kitchen and starts making coffe
 > 2:00-2:33
 
 As the main character approaches the TV, a regular show is playing. Suddenly, the show is interrupted by breaking news. A reporter announces an invasion of Earth. The signal becomes unstable, with buzzing sounds, and then the TV cuts out completely.<br>
+
 News reporter's line: We have breaking news. Moments ago, multiple unidentified flying objects appeared over major cities across the globe. These massive spacecraft have sparked panic and confusion, and—wait… we’re receiving new footage now.
 
 > 2:33-3:27
