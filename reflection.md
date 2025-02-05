@@ -14,6 +14,7 @@ Before:
 ![alt text](<Reflection images/Before.png>)
 After:
 ![alt text](<Reflection images/After.png>)
+### Peer feedbacks
 I also took into account a suggestion from a classmate who listened to my audio during a workshop. They recommended overlapping the breaking news intro more with the reporter’s dialogue and adding a slight cut in the reporter’s line to make the unstable signal feel more realistic. I made these changes, adjusting the overlap and adding a cut to enhance the effect.<br>
 Suggestion: 
 ![alt text](<Reflection images/suggestion1.png>)
@@ -26,5 +27,6 @@ Change: Created two files for a better clarification to my audio file
 ![alt text](<Reflection images/change2.png>)
 Additionally, I received positive feedback, and the audience was able to clearly understand what was happening in the audio file. This gives confidence that the narrative and sound design effectively conveyed the story.
 ![alt text](<Reflection images/positive.png>)
-
+### Conclusion
+This project taught me how to transform a simple idea into a layered audio story. The biggest takeaway was learning to use Audacity and get experience with it. 
 
