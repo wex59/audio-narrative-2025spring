@@ -9,7 +9,7 @@ The day begins as usual—an alarm clock rings, birds chirp, and a daily routine
 Listen to the project:   [audioNarrative.mp3](https://github.com/wex59/audio-narrative-2025spring/blob/main/audioNarrative.mp3)<br>
 View the Audacity file:  [audioNarrative.aup3](https://github.com/wex59/audio-narrative-2025spring/blob/main/audioNarrative.aup3)<br>
 Tools and Effects used in Audacity:    [toolsAndEffectUsed.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/toolsAndEffectUsed.md)<br>
-Text transcription for the audio file:  [textTranscription.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/textTranscription.md)<br>
+Text transcript for the audio file:  [textTranscription.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/textTranscription.md)<br>
 All the assets in this project: [asset.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/assets.md)<br>
 Reflection:
 

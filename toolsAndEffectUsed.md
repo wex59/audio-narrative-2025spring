@@ -16,4 +16,4 @@
 | Siren  | The most scariest siren mix known to man.... | Used Audio split to shorten the sound track and get desire parts of the track and used fade out to create a slowly end. | 
 | Traffic horns  | traffic horns city nervous busy | Used Audio split to shorten the sound track and get desire parts of the track. |
 | TV buzzes  | buzzes and noises_17.03.2016 | Used the silence audio selection to make a sound that indicate a TV bad signal. | 
-| News reporter  | Mery's voice | Used fade out to create a slowly end. |
+| News reporter  | Mery's voice | Used fade out to create a slowly end and used the Filter Curve EQ in the EQ and Filters effect section to create a radio sound effect for the news|
