@@ -21,7 +21,7 @@ Suggestion 1:
 ![alt text](<Reflection images/suggestion1.png>)
 Change: the highlighted part is the new cut off I’ve added and make the breaking news intro overlap more with the news reporter’s line.
 ![alt text](<Reflection images/Change1.png>)<br>
-They also recommended to lower the volume of the breaking news intro which my other friends that listened felt the same way so I lowered the secound part of the soundtrack using Amplify.<br>
+They also recommended to lower the volume of the breaking news intro which my other friends that listened felt the same way so I lowered the second part of the soundtrack using Amplify.<br>
 Suggestion 2:
 ![alt text](<Reflection images/suggestion2.png>)
 Before:
