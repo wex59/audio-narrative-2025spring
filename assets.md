@@ -24,3 +24,4 @@
 | TV buzzes  | buzzes and noises_17.03.2016 | miastodzwiekow | [Freesound](https://freesound.org/people/miastodzwiekow/sounds/340278/) | CC BY 4.0 |
 | News reporter  | Mery's voice | Mery Cheng |  | Permission acquired |
 | Main character | Livio's voice | Livio Xie |  | Permission acquired |
+| Ending | Weini's voice | Weini Xie He |  | Own work |

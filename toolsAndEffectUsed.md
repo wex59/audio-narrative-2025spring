@@ -4,10 +4,10 @@
 | ------------- | ------------- | ------------- |
 | Alarm  |  Alarm | Used left and right panels in alarm to indicate that the clock is in the left of the main character. |
 | Wash face and brush teeth  | washing face brushing teeth | Used Audio split to shorten the soundtrack and get desire parts of the track |
-| Morning background sound  | 2020-04-11 morning | Using effect Amplify in Volume and Compression to decrease the volume for specific time frame in the soundtrack | 
+| Morning background sound  | 2020-04-11 morning | Used effect Amplify in Volume and Compression to decrease the volume for specific time frame in the soundtrack | 
 | Waking up | WakeUp | Used Audio split to shorten the soundtrack and get desire parts of the track | 
 | Sleeping sound | Small children sleeping | Used Audio split to shorten the soundtrack and get desire parts of the track |
-| Breaking news Intro | Breaking news intro music | Used Audio split to shorten the soundtrack and get desire parts of the track |
+| Breaking news Intro | Breaking news intro music | Used Audio split to shorten the soundtrack and get desire parts of the track. Also, used effect Amplify in Volume and Compression to decrease the volume for specific time frame in the soundtrack |
 | Drinking coffee  | Coffee Sips | Used Audio split to shorten the soundtrack and get desire parts of the track |
 | TV sounds  | Sounds from a TV | Used Audio split to shorten the soundtrack and get desire parts of the track and a fade in to indicate the character walking toward the TV.| 
 | Object falling  | Hard Earthquake | Used Audio split to shorten the soundtrack and get desire parts of the track |

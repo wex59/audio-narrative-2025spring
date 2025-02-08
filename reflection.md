@@ -16,15 +16,24 @@ After:
 ![alt text](<Reflection images/After.png>)
 ### Peer feedbacks
 I also took into account a suggestion from a classmate who listened to my audio during a workshop. They recommended overlapping the breaking news intro more with the reporter’s dialogue and adding a slight cut in the reporter’s line to make the unstable signal feel more realistic. I made these changes, adjusting the overlap and adding a cut to enhance the effect.<br>
-Suggestion: 
+
+Suggestion 1: 
 ![alt text](<Reflection images/suggestion1.png>)
 Change: the highlighted part is the new cut off I’ve added and make the breaking news intro overlap more with the news reporter’s line.
-![alt text](<Reflection images/Change1.png>)
-Another suggestion was to include a text transcript of my audio file and a separate file listing the tools and effects I used for better clarity. I implemented this by creating two additional files: one with the transcript and another detailing the Audacity tools and effects applied to each soundtrack. These changes helped make my project more organized and easier to understand.<br>
-Suggestion:
+![alt text](<Reflection images/Change1.png>)<br>
+They also recommended to lower the volume of the breaking news intro which my other friends that listened felt the same way so I lowered the secound part of the soundtrack using Amplify.
+Suggestion 2:
 ![alt text](<Reflection images/suggestion2.png>)
+Before:
+![alt text](<Reflection images/change3.png>)
+After:
+![alt text](<Reflection images/change3Before.png>)<br>
+
+Another suggestion was to include a text transcript of my audio file and a separate file listing the tools and effects I used for better clarity. I implemented this by creating two additional files: one with the transcript and another detailing the Audacity tools and effects applied to each soundtrack. These changes helped make my project more organized and easier to understand.<br>
+Suggestion 3:
+![alt text](<Reflection images/suggestion3.png>)
 Change: Created two files for a better clarification to my audio file
-![alt text](<Reflection images/change2.png>)
+![alt text](<Reflection images/change2.png>)<br>
 Additionally, I received positive feedback, and the audience was able to clearly understand what was happening in the audio file. This gives confidence that the narrative and sound design effectively conveyed the story.
 ![alt text](<Reflection images/positive.png>)
 ### Conclusion
