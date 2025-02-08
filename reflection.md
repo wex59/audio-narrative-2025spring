@@ -21,13 +21,13 @@ Suggestion 1:
 ![alt text](<Reflection images/suggestion1.png>)
 Change: the highlighted part is the new cut off I’ve added and make the breaking news intro overlap more with the news reporter’s line.
 ![alt text](<Reflection images/Change1.png>)<br>
-They also recommended to lower the volume of the breaking news intro which my other friends that listened felt the same way so I lowered the secound part of the soundtrack using Amplify.
+They also recommended to lower the volume of the breaking news intro which my other friends that listened felt the same way so I lowered the secound part of the soundtrack using Amplify.<br>
 Suggestion 2:
 ![alt text](<Reflection images/suggestion2.png>)
 Before:
-![alt text](<Reflection images/change3.png>)
+![alt text](<Reflection images/change3Before.png>)
 After:
-![alt text](<Reflection images/change3Before.png>)<br>
+![alt text](<Reflection images/change3.png>)<br>
 
 Another suggestion was to include a text transcript of my audio file and a separate file listing the tools and effects I used for better clarity. I implemented this by creating two additional files: one with the transcript and another detailing the Audacity tools and effects applied to each soundtrack. These changes helped make my project more organized and easier to understand.<br>
 Suggestion 3:

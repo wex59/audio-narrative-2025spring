@@ -12,8 +12,3 @@ Tools and Effects used in Audacity:    [toolsAndEffectUsed.md](https://github.co
 Text transcript for the audio file:  [textTranscripts.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/textTranscript.md)<br>
 All the assets in this project: [asset.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/assets.md)<br>
 Reflection:[reflection.md](https://github.com/wex59/audio-narrative-2025spring/blob/main/reflection.md)
-
-
-need to do:
-
--Add an ending with your name and the link
